@@ -1,2 +1,2 @@
-# propostas-app
+# propostas-aplicativo
 Propostas
